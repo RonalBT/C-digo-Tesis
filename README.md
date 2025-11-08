@@ -119,7 +119,7 @@ Los resultados mostraron que el método combinado **DBSCAN + PSO** logró una **
 </p>
 
 <p align="center">
-  <em>Figura 3. Ejemplo de asignación de agentes en entorno con vegetación (izquierda) y entorno urbano con obstáculos (derecha).</em>
+  <em>Figura 3. Ejemplo de asignación de agentes en entorno 3D.</em>
 </p>
 
 <p align="center">
